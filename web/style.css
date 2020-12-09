@@ -27,7 +27,11 @@
     src: url(geometria_font/geometria-medium.ttf);
     font-weight: 500;
 }
+.wrapper header.header .logo .img-logo{
+    margin: 10px 0 0 40px;
+    padding-right: 35px;
 
+}
 .wrapper header.header .logo {}
 
 .wrapper header.header .logo h2 {

@@ -26,7 +26,9 @@ AppAsset::register($this);
             <div class="row">
                 <div class="col-md-2">
                     <div class="logo">
-                        <h2><a href="#">БУДУЩЕЕ</a></h2>
+                        <div class="img-logo">
+                        <img src="img/logo.jpg" alt="логотип">
+                        </div>
                     </div>
                 </div>
                 <div class="col-md-10">
